@@ -72,7 +72,7 @@ docker --version
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/LucasSantosReis/ecomida.git
+   git clone https://github.com/LucasSantosReis/eucomida.git
    cd eucomida
 2. docker-compose up --build
 
