@@ -73,7 +73,7 @@ docker --version
 1. Clone este repositório:
    ```sh
    git clone https://github.com/LucasSantosReis/ecomida.git
-   cd eucomida-backend
+   cd eucomida
 2. docker-compose up --build
 
 3. Acesse a documentação da API em:
